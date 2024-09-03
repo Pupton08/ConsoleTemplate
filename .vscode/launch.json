@@ -9,7 +9,8 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "console": "internalConsole"
+            "console": "internalConsole",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/ConsoleTemplate.dll"
         }
 
     ]
