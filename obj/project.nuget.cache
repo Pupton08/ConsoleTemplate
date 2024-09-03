@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "axswA292Lj4AsiAWMMenXOoHWQZweCogt10S1QYgy4NQtTQbAcPBuqXMDkdPY1p6z9VgeFtIPu9Jq9nuh9LDvA==",
+  "dgSpecHash": "hPnF6jfHddM=",
   "success": true,
-  "projectFilePath": "/Users/mjd@bryanston.co.uk/Library/CloudStorage/OneDrive-BryanstonSchool/Visual Studio Projects/ConsoleTemplate/ConsoleTemplate.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/ConsoleTemplate/ConsoleTemplate.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
