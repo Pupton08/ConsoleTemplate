@@ -1,4 +1,4 @@
-﻿// PCW competition Day 1
+﻿// Console program template
 using System;
 class Program
 {
