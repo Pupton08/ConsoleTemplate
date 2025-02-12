@@ -1,4 +1,4 @@
-﻿// Console program template
+﻿// 2020 Section B
 using System;
 class Program
 {
